@@ -1,2 +1,7 @@
 today i learn github 
 this is my first class
+today i leran commit and push command
+first we need to add our file aoue local reposetery 
+and if we want to make a chenge then we need to do git commit command -m "commante'
+
+
